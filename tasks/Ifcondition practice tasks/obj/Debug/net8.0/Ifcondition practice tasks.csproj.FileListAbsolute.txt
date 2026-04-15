@@ -1,0 +1,15 @@
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\bin\Debug\net8.0\Ifcondition practice tasks.exe
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\bin\Debug\net8.0\Ifcondition practice tasks.deps.json
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\bin\Debug\net8.0\Ifcondition practice tasks.runtimeconfig.json
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\bin\Debug\net8.0\Ifcondition practice tasks.dll
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\bin\Debug\net8.0\Ifcondition practice tasks.pdb
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.AssemblyInfoInputs.cache
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.AssemblyInfo.cs
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.csproj.CoreCompileInputs.cache
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.sourcelink.json
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.dll
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\refint\Ifcondition practice tasks.dll
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.pdb
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\Ifcondition practice tasks.genruntimeconfig.cache
+C:\Users\OMAN\Desktop\Backend\tasks\Ifcondition practice tasks\obj\Debug\net8.0\ref\Ifcondition practice tasks.dll
