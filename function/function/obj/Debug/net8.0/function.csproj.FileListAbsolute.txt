@@ -1,0 +1,14 @@
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\bin\Debug\net8.0\function.exe
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\bin\Debug\net8.0\function.deps.json
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\bin\Debug\net8.0\function.runtimeconfig.json
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\bin\Debug\net8.0\function.dll
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\bin\Debug\net8.0\function.pdb
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.dll
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\refint\function.dll
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.pdb
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+C:\Users\alsai\OneDrive\Desktop\backend task\function\function\obj\Debug\net8.0\ref\function.dll
