@@ -1,0 +1,15 @@
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\bin\Debug\net8.0\calculater with validation on number.exe
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\bin\Debug\net8.0\calculater with validation on number.deps.json
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\bin\Debug\net8.0\calculater with validation on number.runtimeconfig.json
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\bin\Debug\net8.0\calculater with validation on number.dll
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\bin\Debug\net8.0\calculater with validation on number.pdb
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.AssemblyInfoInputs.cache
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.AssemblyInfo.cs
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.csproj.CoreCompileInputs.cache
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.sourcelink.json
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.dll
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\refint\calculater with validation on number.dll
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.pdb
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\calculater with validation on number.genruntimeconfig.cache
+C:\Users\OMAN\Desktop\Backend-task-test\calculater with validation on number\calculater\calculater with validation on number\obj\Debug\net8.0\ref\calculater with validation on number.dll

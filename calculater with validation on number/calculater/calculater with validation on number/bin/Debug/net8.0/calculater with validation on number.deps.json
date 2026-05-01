@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "calculater with validation on number/1.0.0": {
+        "runtime": {
+          "calculater with validation on number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculater with validation on number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
