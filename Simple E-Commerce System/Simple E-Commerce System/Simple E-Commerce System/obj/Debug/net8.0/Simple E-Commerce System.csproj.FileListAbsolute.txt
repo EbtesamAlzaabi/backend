@@ -1,0 +1,14 @@
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\bin\Debug\net8.0\Simple E-Commerce System.exe
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\bin\Debug\net8.0\Simple E-Commerce System.deps.json
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\bin\Debug\net8.0\Simple E-Commerce System.runtimeconfig.json
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\bin\Debug\net8.0\Simple E-Commerce System.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\bin\Debug\net8.0\Simple E-Commerce System.pdb
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.AssemblyInfoInputs.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.AssemblyInfo.cs
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.csproj.CoreCompileInputs.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\refint\Simple E-Commerce System.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.pdb
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\Simple E-Commerce System.genruntimeconfig.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Simple E-Commerce System\Simple E-Commerce System\Simple E-Commerce System\obj\Debug\net8.0\ref\Simple E-Commerce System.dll
