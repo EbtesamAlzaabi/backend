@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Movie Website System (Console App) Task/1.0.0": {
+        "runtime": {
+          "Movie Website System (Console App) Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movie Website System (Console App) Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

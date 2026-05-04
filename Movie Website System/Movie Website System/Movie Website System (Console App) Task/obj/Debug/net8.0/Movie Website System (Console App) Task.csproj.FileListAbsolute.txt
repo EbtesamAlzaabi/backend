@@ -1,0 +1,14 @@
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\bin\Debug\net8.0\Movie Website System (Console App) Task.exe
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\bin\Debug\net8.0\Movie Website System (Console App) Task.deps.json
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\bin\Debug\net8.0\Movie Website System (Console App) Task.runtimeconfig.json
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\bin\Debug\net8.0\Movie Website System (Console App) Task.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\bin\Debug\net8.0\Movie Website System (Console App) Task.pdb
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.AssemblyInfoInputs.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.AssemblyInfo.cs
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.csproj.CoreCompileInputs.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\refint\Movie Website System (Console App) Task.dll
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.pdb
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\Movie Website System (Console App) Task.genruntimeconfig.cache
+C:\Users\ebtes\OneDrive\Desktop\backent taske in app\Movie Website System\Movie Website System\Movie Website System (Console App) Task\obj\Debug\net8.0\ref\Movie Website System (Console App) Task.dll
