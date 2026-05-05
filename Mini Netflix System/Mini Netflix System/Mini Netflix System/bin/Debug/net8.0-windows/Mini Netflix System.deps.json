@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mini Netflix System/1.0.0": {
+        "runtime": {
+          "Mini Netflix System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mini Netflix System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
